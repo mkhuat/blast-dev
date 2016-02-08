@@ -411,6 +411,8 @@ a.pagination-item:hover {
   }
 }
 
-.fonthere {
-	font-family: "PT Sans", Helvetica, Arial, sans-serif;
-}
+.site-footer {
+  padding-top: 1.5rem;
+  margin-top: 2rem;
+  border-top: solid 1px #eff0f1; }
+
