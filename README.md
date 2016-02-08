@@ -1,6 +1,6 @@
-# BLAST [Temporary developer website]
+# BLAST
 
-This repository contains the source for BLAST's potential dev site.
+This repository contains the source for BLAST's dev site
 
 ## Developer Website
 Contains CSE 403: Software Engineering classroom submissions.
