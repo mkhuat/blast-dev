@@ -413,7 +413,7 @@ a.pagination-item:hover {
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
-  border-top: solid 1px #eff0f1; }
+  border-top: solid 1px black; }
 
 .site-footer-owner {
   display: block;
